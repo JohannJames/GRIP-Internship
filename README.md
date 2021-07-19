@@ -9,8 +9,8 @@ a repository for my  Web Development & Designing intern at the Graduate Rotation
 A website is developed to demonstrate online payment using debit/credit card, net banking by clicking on donate button and receiving email of payment invoice.<br>
 Integration is done using Instamojo.<br>
 Hosted website -https://jjfoundation.000webhostapp.com/ <br>
-YouTube link for the task video -  <br>
-(The task video is also uploaded in the repository under payment gateway integration named as 'recording')
+YouTube link for the task video - https://youtu.be/05tg0vBuicc <br>
+(The task video is also uploaded in the repository named as 'Recording')
 
 As it is for testing purposes, the fake card details are as follows:
-Card number: 4242 4242 42424 4242, Expiration Date: Any Future expiry date, CVV: 111, Password: 1221
+Card number: 4242 4242 4242 4242, Expiration Date: Any Future expiry date, CVV: 111, Password: 1221
